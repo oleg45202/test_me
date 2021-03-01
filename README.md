@@ -5,7 +5,7 @@ Show how the redis works with Java, Spring.
 ## Try it out
 
 <p>
-    <a href="https://heroku.com/deploy?template=https://github.com/oleg45202/test_me/tree/master/server" target="_blank">
+    <a href="https://heroku.com/deploy?dir=server" target="_blank">
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="200px"/>
     <a>
 </p>
