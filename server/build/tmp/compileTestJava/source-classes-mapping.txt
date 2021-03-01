@@ -1,0 +1,2 @@
+com/redis/basicredisleaderboarddemojava/BasicRedisLeaderLoardDemoJavaApplicationTests.java
+ com.redis.basicredisleaderboarddemojava.BasicRedisLeaderLoardDemoJavaApplicationTests
